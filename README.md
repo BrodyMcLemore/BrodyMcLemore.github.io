@@ -1,2 +1,2 @@
 # BrodyMcLemore.github.io
-My Personal Websit
+My Personal Website
