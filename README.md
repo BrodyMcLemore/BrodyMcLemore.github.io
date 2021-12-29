@@ -1,2 +1,4 @@
-# BrodyMcLemore.github.io
-My Personal Website
+# The Professional Website of Brody McLemore
+This is the working Repo for my Professional Website.
+
+You can visit the Website at [BrodyMcLemore.github.io](brodymclemore.github.io)
