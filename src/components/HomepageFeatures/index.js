@@ -4,28 +4,28 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/pic01.svg').default,
+    title: 'Information Technology',
+    Svg: require('@site/static/img/planning.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        My experience and knowledge with Computer Science and Information Technology has equipped me
+        to manage and solve any number of modern IT issues. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Gas Chromatography',
+    Svg: require('@site/static/img/chroma.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        An extensive knowledge and background with the analytical and process Gas Chromatography feilds 
+        
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Analytics',
+    Svg: require('@site/static/img/analytics.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
