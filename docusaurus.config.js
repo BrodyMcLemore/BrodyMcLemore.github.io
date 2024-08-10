@@ -42,13 +42,9 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -61,7 +57,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Brody McLemore',
         logo: {
@@ -71,16 +66,23 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'about',
             position: 'left',
-            label: 'Tutorial',
+            label: 'About Me',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'chem',
+            position: 'left',
+            label: 'Chemistry',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'it',
+            position: 'left',
+            label: 'Information Technology',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/BrodyMcLemore/BrodyMcLemore.github.io',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -115,6 +117,11 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: true,
+        respectPrefersColorScheme: false
+      }
     }),
 };
 
