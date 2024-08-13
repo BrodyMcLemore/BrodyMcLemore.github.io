@@ -49,7 +49,6 @@ const sidebars = {
           items: ["chem/work/a","chem/work/b"]
 				},
 				"chem/research",
-				"chem/studies",
 				"chem/internship",
 			],
 		},
@@ -76,7 +75,6 @@ const sidebars = {
 					},
           items: ["it/work/a","it/work/b"]
 				},
-				"it/studies",
 				"it/home-lab",
 			],
 		},
