@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Undergraduate Internship
+# Internship
 
 During my third year attending Buena Vista University, I was introduced to Analytical Chemistry at Foundation Analytical Laboratory; an internship that shaped the course of my future career
 

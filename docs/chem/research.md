@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Undergraduate Research
+# Research
 
 During my time at Buena Vista University, I embarked on a comprehensive, semester-long independent research study focused on Lithium-Ion Batteries. This rigorous academic endeavor allowed me to delve deeply into the complexities and innovations associated with these critical energy storage devices. The culmination of this research is presented in the paper summarized below, which explores novel methodologies and insights into the recycling of Lithium-Ion Batteries.
 

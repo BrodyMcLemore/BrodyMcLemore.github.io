@@ -46,7 +46,7 @@ const sidebars = {
             slug: "/category/chem/work",
             description: "Descriptions of my previous chemistry work experiences"
 					},
-          items: ["chem/work/a","chem/work/b"]
+          items: ["chem/work/siemens","chem/work/orthodyne"]
 				},
 				"chem/research",
 				"chem/internship",
