@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Layer 1"
+   viewBox="0 0 128 160"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="chromadark.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.5929863"
+     inkscape:cx="30.197721"
+     inkscape:cy="97.551164"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <title
+     id="title1">solid</title>
+  <g
+     id="g4"
+     transform="translate(0,16)">
+    <path
+       d="M 4,79 V 66 h 12.91 l 1,-4 H 4 V 45.33 h 16.67 v 6.17 l 0.26,-1 a 6,6 0 0 1 3.74,-4.12 v -1 H 41.33 V 62 h -5.69 l 1.08,4 h 4.46 L 45.34,37.14 V 24.67 h 1.8 l 0.58,-4 H 45.33 V 4 H 62 v 16.67 h -1.68 l 0.6,4 H 62 v 7.25 l 4,26.85 V 45.33 h 7.83 l 0.69,-4 H 66 V 24.67 h 16.67 v 7 a 6,6 0 0 1 4,3.22 V 24.67 h 16.67 V 41.33 H 88.11 l 0.75,4 h 14.48 V 62 H 92 l 0.75,4 h 9.5 l 1.21,-2.61 a 6,6 0 0 1 3.9,-3.26 V 45.33 H 124 V 62 h -10.59 a 6,6 0 0 1 0.91,1.39 L 115.53,66 H 124 v 13 h 2 a 6,6 0 0 1 2,0.35 V 6 A 6,6 0 0 0 122,0 H 6 A 6,6 0 0 0 0,6 V 79.35 A 6,6 0 0 1 2,79 Z M 107.33,4 H 122 a 2,2 0 0 1 2,2 v 14.67 h -16.67 z m 0,20.67 H 124 V 41.33 H 107.33 Z M 86.67,4 h 16.67 V 20.67 H 86.67 Z M 66,4 H 82.67 V 20.67 H 66 Z M 24.67,4 H 41.33 V 20.67 H 24.67 Z m 0,20.67 H 41.33 V 41.33 H 24.67 Z M 4,6 A 2,2 0 0 1 6,4 H 20.67 V 20.67 H 4 Z M 4,24.67 H 20.67 V 41.33 H 4 Z"
+       id="path1"
+       style="fill:#ffffff;fill-opacity:1" />
+    <polygon
+       points="70.94,62 66.48,62 67.08,66 70.25,66 "
+       id="polygon1"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       d="m 6,128 h 116 a 6,6 0 0 0 6,-6 V 90.65 A 6,6 0 0 1 126,91 h -2 v 12.33 H 107.33 V 91 h -4 v 12.33 H 86.67 V 91 h -4 v 12.33 H 66 V 91 h -4 v 12.33 H 45.33 V 91 h -4 v 12.33 H 24.67 V 91 h -4 v 12.33 H 4 V 91 H 2 A 6,6 0 0 1 0,90.65 V 122 a 6,6 0 0 0 6,6 z M 107.33,107.33 H 124 V 122 a 2,2 0 0 1 -2,2 h -14.67 z m -20.67,0 h 16.67 V 124 H 86.67 Z m -20.67,0 H 82.67 V 124 H 66 Z m -20.67,0 H 62 V 124 H 45.33 Z m -20.67,0 H 41.33 V 124 H 24.67 Z M 4,107.33 H 20.67 V 124 H 6 a 2,2 0 0 1 -2,-2 z"
+       id="path2"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       d="m 2,87 h 16.17 a 2,2 0 0 0 1.94,-1.5 l 6.66,-25.67 6.91,25.69 A 2,2 0 0 0 35.62,87 h 8.88 a 2,2 0 0 0 2,-1.71 l 7.5,-52.5 7.82,52.5 a 2,2 0 0 0 2,1.71 H 73 a 2,2 0 0 0 2,-1.66 l 6.35,-36.59 6.85,36.62 a 2,2 0 0 0 2,1.63 h 9.8 a 2,2 0 0 0 1.81,-1.16 l 7.07,-15.18 7.07,15.18 a 2,2 0 0 0 1.8,1.16 H 126 a 2,2 0 0 0 0,-4 h -7 l -8.34,-17.92 a 2,2 0 0 0 -3.63,0 L 98.72,83 h -6.9 L 83.25,37.1 a 2,2 0 0 0 -2,-1.63 v 0 a 2,2 0 0 0 -2,1.66 L 71.36,83 H 65.57 L 56,18.71 A 2,2 0 0 0 54,17 v 0 a 2,2 0 0 0 -2,1.71 L 42.76,83 H 37.15 L 28.67,51.48 a 2,2 0 0 0 -3.87,0 L 16.63,83 H 2 a 2,2 0 0 0 0,4 z"
+       id="path3"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>solid</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
