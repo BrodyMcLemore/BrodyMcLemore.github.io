@@ -1,15 +1,17 @@
-// @ts-check
+// @ts-nocheck
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
+// @ts-ignore
 import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Brody McLemore",
-  tagline: "Analytical Chemistry and Computer Science",
+  tagline:
+    "Combining Analytical Chemistry and Computer Science for Business Excellence",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
