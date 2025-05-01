@@ -37,6 +37,10 @@ const config = {
     locales: ["en"]
   },
 
+  plugins: [
+    require.resolve("@getcanary/docusaurus-theme-search-pagefind")
+  ],
+
   presets: [
     [
       "classic",
